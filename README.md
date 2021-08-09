@@ -1,6 +1,6 @@
                         
                         
-  ## hey buddy!    
+  ## HELLO!  
 
 I am Roshaan , a high-school student and  an aspiring computer Scientist , currently I am learning full-stack web development from an open source cirriculum called [The Odin Project](https://www.theodinproject.com/) 
 🌿
