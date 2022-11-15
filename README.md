@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Jalil</h1>
 <h2 align="center">A high school senior and web developer from Pakistan</h2>
-<p> I have been learning how to code for 5 years now, my interests mainly revolve around web-technologies and mathematics. I have also been studying Quantum Computing and Cryptography. I look forward to work on tech projects in the healthcare and education sector, and continue to learn more about the world of technology!</p?
+<p> I have been learning how to code for 5 years now, my interests mainly revolve around web-technologies and mathematics. I have also been studying Quantum Computing and Cryptography. I look forward to working on tech projects in the healthcare and education sector, and continue to learn more about the world of technology!</p?
 <br>
 
 
