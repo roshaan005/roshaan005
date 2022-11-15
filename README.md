@@ -2,7 +2,6 @@
 <h2 align="center">A high school senior and web developer from Pakistan</h2>
 <p> I have been learning how to code for 5 years now, my interests mainly revolve around web-technologies and mathematics. I have also been studying Quantum Computing and Cryptography. I look forward to work on tech projects in the healthcare and education sector, and continue to learn more about the world of technology!</p?
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshaan005&label=Profile%20views&color=0e75b6&style=flat" alt="roshaan005" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anxiousgritt" target="blank"><img src="https://img.shields.io/twitter/follow/anxiousgritt?logo=twitter&style=for-the-badge" alt="anxiousgritt" /></a> </p>
 
